@@ -12,3 +12,5 @@ This is a Python-based Drowsiness Detection System that uses **OpenCV** and **Py
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/drowsiness-detection-system.git
+
+![image](https://github.com/user-attachments/assets/82373f26-5acb-46c0-a94d-66b6cbd26e59)
